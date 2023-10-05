@@ -3,6 +3,11 @@ A python script to convert ING bank accounut statements from PDF to CSV and JSON
 
 Can be used for [firefly-iii-fints-importer](https://github.com/bnw/firefly-iii-fints-importer)
 
+## Motivation
+
+CSV files from ING online portal doesn't contain "Referenz".
+Sometimes statements (rows in CSV) have no "Verwendungszweck" which makes it impossible to process CSV files automatically.
+
 ## Status
 Tested for german ING bank girp accounuts.
 
