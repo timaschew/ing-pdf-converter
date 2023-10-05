@@ -51,7 +51,7 @@ JSON structure:
                 "Umbuchung"
             ],
             "valuta": "20.12.2020",
-            "referenz": "ZV0000123456789110000000
+            "referenz": "ZV0000123456789110000000"
         }
     ]
 }
