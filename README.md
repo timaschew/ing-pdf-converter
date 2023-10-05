@@ -1,6 +1,8 @@
 # ing-pdf-converter
 A python script to convert ING bank accounut statements from PDF to CSV and JSON
 
+Can be used for [firefly-iii-fints-importer](https://github.com/bnw/firefly-iii-fints-importer)
+
 ## Status
 Tested for german ING bank girp accounuts.
 
